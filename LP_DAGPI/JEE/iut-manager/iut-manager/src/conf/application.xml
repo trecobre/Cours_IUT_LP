@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application version="8" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/application_8.xsd">
+  <display-name>iut-manager</display-name>
+  <module>
+    <ejb>iut-manager-ejb.jar</ejb>
+  </module>
+  <module>
+    <web>
+      <web-uri>iut-manager-webapp.war</web-uri>
+      <context-root>/iut-manager/webapp</context-root>
+    </web>
+  </module>
+  <module>
+    <web>
+      <web-uri>iut-manager-webapi.war</web-uri>
+      <context-root>/iut-manager/api</context-root>
+    </web>
+  </module>
+</application>
