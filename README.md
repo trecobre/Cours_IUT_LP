@@ -40,112 +40,112 @@ Ce dépôt regroupe la presque totalité des travaux produits lors de mes étude
 
 ## 2er Année de DUT Informatique [S3 & S4](https://github.com/trecobre/Cours_IUT_LP/tree/main/IUT_S3-S4 "IUT_S3-S4")
 
-### [Demineur](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/2021-demineur-recobretheo-master.zip ,"demineur")
+### [Demineur](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/2021-demineur-recobretheo-master.zip "demineur")
 > **Description** : Le jeu du démineur avec interface grafique
 
 > **Language** : Java 11 SE
 
 > **Condition de lancement** : Avoir Java et Eclipse installé
 
-### [Algorithmie Distribuée](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/algodist.zip ,"algo-dist")
+### [Algorithmie Distribuée](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/algodist.zip "algo-dist")
 > **Description** : Mes exercices d'algorithmie distribuée
 
 > **Language** : Java 11 SE
 
 > **Condition de lancement** : Avoir Java et IntelliJ Idea installé
 
-### [C](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/cours_c_recobre-master.zip ,"cours-c")
+### [C](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/cours_c_recobre-master.zip "cours-c")
 > **Description** : Mes cours de C
 
 > **Language** : C
 
 > **Condition de lancement** : Sur un linux avec Make installé
 
-### [Cryptographie](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/crypto-main.zip ,"crypto")
+### [Cryptographie](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/crypto-main.zip "crypto")
 > **Description** : Projet de cryptographie, lancez le programme, entrez un chiffre et faite communiquer Alice et Bob de manière sécurisée
 
 > **Language** : Python
 
 > **Condition de lancement** : Avoir Python installé avec les modules sympy et hashlib
 
-### [IA](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/IA.zip ,"ia")
+### [IA](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/IA.zip "ia")
 > **Description** : Mes cours d'IA
 
 > **Language** : Python-Jupyter
 
 > **Condition de lancement** : Avoir Python et Jupyter installé
 
-### [JEE](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/jee_td_recobre_vallini-master.zip ,"jee")
+### [JEE](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/jee_td_recobre_vallini-master.zip "jee")
 > **Description** : Mes cours de J2E
 
 > **Language** : Java 11 EE
 
 > **Condition de lancement** : Avoir Java installé
 
-### [Front Web](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/JS.zip ,"js")
+### [Front Web](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/JS.zip "js")
 > **Description** : Mes cours de JavaScript
 
 > **Language** : JavaScript / JQuery
 
 > **Condition de lancement** : Aucune
 
-### [MiniShell](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/minishell-main.zip ,"minishell")
+### [MiniShell](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/minishell-main.zip "minishell")
 > **Description** : Projet du MiniShell, le but était de refaire le shell bash
 
 > **Language** : C
 
 > **Condition de lancement** : Linux avec Make installé
 
-### [Web Serveur](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/prog-web-serveur-recobre-main.zip ,"prog-web-serv")
+### [Web Serveur](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/prog-web-serveur-recobre-main.zip "prog-web-serv")
 > **Description** : Mes cours de PHP
 
 > **Language** : PHP / Symfony
 
 > **Condition de lancement** : la plupart des exercices sont basés sur une base de donnée fournit par l'IUT. Pour le reste, avoir PHP, Composer et Symfony installé.
 
-### [S3Web](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/projet_s3web_blazquez_recobre_s3d-master.zip ,"s3web")
+### [S3Web](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/projet_s3web_blazquez_recobre_s3d-master.zip "s3web")
 > **Description** : Projet de web coté serveur, l'objectif était de réaliser un site sur le même principe de [IMDb](https://www.imdb.com/ "IMDb")
 
 > **Language** : PHP / Symfony
 
 > **Condition de lancement** : Avoir PHP, Composer et Symfony installé.
 
-### [Image](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/projet-image-recobre-blazquez-s4d-main.zip ,"image")
+### [Image](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/projet-image-recobre-blazquez-s4d-main.zip "image")
 > **Description** : Projet d'image, l'objectif était de détécter le nombre ecrit sur l'image en utilisant une technique d'intelligence artificielle
 
 > **Language** : Python
 
 > **Condition de lancement** : Avoir Python, numpy et skimage d'installé
 
-### [PT4](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/pt4-g-main.zip ,"pt4")
+### [PT4](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/pt4-g-main.zip "pt4")
 > **Description** : Projet tutoré 4, l'objectif était de concevoir un logiciel de gestion pour un camping
 
 > **Language** : C#
 
 > **Condition de lancement** : Base de donnée à recréer
 
-### [Réseau](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/reseau_s3.zip ,"reseau_s3")
+### [Réseau](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/reseau_s3.zip "reseau_s3")
 > **Description** : Mes cours de réseau
 
 > **Language** : Aucun code car nous avons travaillé sur des VM linux. Configuration des VM en Bash
 
 > **Condition de lancement** : pas de programme
 
-### [Robotique](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/robotique-blazquez-recobre-master.zip ,"robotique")
+### [Robotique](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/robotique-blazquez-recobre-master.zip "robotique")
 > **Description** : Projet de robotique, l'objectif est de faire se déplacer un robot simulé dans une SandBox. 
 
 > **Language** : Python
 
 > **Condition de lancement** : Avoir Python installé (lancement conseillé en venv)
 
-### [Taquin](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/taquin-main.zip ,"taquin")
+### [Taquin](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/taquin-main.zip "taquin")
 > **Description** : Projet taquin, l'objectif était de recréer le jeu Taquin en version Mobile.
 
 > **Language** : Java 
 
 > **Condition de lancement** : Avoir Android Studio installé.
 
-### [Horloge](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/tp-horloge-main.zip ,"horloge")
+### [Horloge](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S3-S4/tp-horloge-main.zip "horloge")
 > **Description** : TP Horloge, l'objectif était de refactoriser un projet existant en y ajoutant des fonctionnalités
 
 > **Language** : Java 11 SE
