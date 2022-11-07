@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.jquery.com/jquery-3.6.1.js"></script>
+    <script>
+        $(document).ready(function(){
+            $("ul, h1, img").css({
+                'display':'none'
+            });
+            $("#btn_list").on('click', function(){
+                if ($(this).val() == "1"){
+                    $("ul").animate({height:'toggle'},700);
+                    $(this).val("2");
+                    $(this).text("Masquer")
+                }
+                else{
+                    $("ul").animate({height:'toggle'},700);
+                    $(this).val("1");
+                    $(this).text("Afficher")
+                }
+                
+            });
+            $("#btn_bienvenue").on('click', function(){
+                $("h1").css({
+                    'display':'block',
+                    'margin-left':'-150px'
+                });
+                $("h1").animate({"margin-left":"+=1700px"},10000, function(){
+                    $(this).css("display", "none");
+                });
+            });
+            let img = $("#defile").children().first();
+            img.fadeIn("1000");
+            let index = 0;
+            let anim1 = true;
+            $("#btn_suivant").on('click', function(){
+                index++;
+                let img_next;
+                if(index==3){
+                    img_next = $("#defile").children().first();
+                    index = 0;
+                }
+                else{
+                    img_next = img.next();
+                }
+                /*if (anim1){
+                    img.fadeOut("500", function(){
+                        img_next.fadeIn("500");
+                    });
+                    anim1 = false;
+                }
+                else{
+                    img.slideUp("500", function(){
+                        img_next.slideDown("500");
+                    });
+                    anim1 = true;
+                }*/
+                img.animate({"margin-left":"+=1700px"},1000, function(){
+                    $(this).css("display", "none");
+                    img_next.css({"display": "block", "margin-left": "-1500px"});
+                    img_next.animate({"margin-left": "+=1500px"}, 1000)
+                });
+                img = img_next;
+                
+            });
+            setInterval(function(){
+                $("#btn_suivant").trigger("click")
+            }, 5000);
+        });
+    </script>
+    <title>Document</title>
+</head>
+<body>
+    <button id="btn_list" value="1">Afficher</button>
+    <ul>
+        <li>élément 1</li>
+        <li>élément 2</li>
+        <li>élément 3</li>
+    </ul>
+    </br>
+    <button id="btn_bienvenue">Bienvenue</button>
+    <h1>Bonjour</h1>
+
+    <article id="defile">
+        <img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg" id="img1">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/640px-Image_created_with_a_mobile_phone.png" id="img2">
+        <img src="https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive.jpg" id="img3">
+    </article>
+    <button id="btn_suivant">Suivant</button>
+
+</body>
+</html>

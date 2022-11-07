@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    font-family: "Gill Sans", sans-serif;
+    font-size:1.2em;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    background-color: darkslategray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#throw{
+    height: 7vh;
+    font-size: 1.6em;
+    border-radius: 50px;
+    background-color: gray;
+    border: 0px;
+    padding: 10px;
+}
+
+#result_dice{
+    height: 10vh;
+    width: 100vw;
+    background-color: lightcoral;
+    display: flex;
+    justify-content: center;
+}
+
+#keeped_dice{
+    height: 10vh;
+    width: 100vw;
+    background-color: darkcyan;
+    display: flex;
+    justify-content: center;
+}
+
+#score{
+    margin-top: 2vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+img{
+    height: 7vh;
+    width: 7vh;
+    margin: 10px;
+}
+
+th{
+    background-color: aqua;
+}
+
+table, td, tr, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+};

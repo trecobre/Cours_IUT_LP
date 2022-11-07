@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="iut-manager-ejb1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/iut-manager-ejb/dist/iut-manager-ejb.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

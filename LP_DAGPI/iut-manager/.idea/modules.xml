@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/iut-manager.iml" filepath="$PROJECT_DIR$/.idea/iut-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iut-manager-ejb/iut-manager-ejb.iml" filepath="$PROJECT_DIR$/iut-manager-ejb/iut-manager-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iut-manager-webapi/iut-manager-webapi.iml" filepath="$PROJECT_DIR$/iut-manager-webapi/iut-manager-webapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iut-manager-webapp/iut-manager-webapp.iml" filepath="$PROJECT_DIR$/iut-manager-webapp/iut-manager-webapp.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://code.jquery.com/jquery-3.6.1.js"></script>
+    <script src="script.js"></script>
+    <title>Yahzee</title>
+</head>
+<body>
+    <header>
+        <button id="throw">Lancer les dés</button>
+    </header>
+    <div id="result_dice"></div>
+    <div id="keeped_dice"></div>
+    <div id="score">
+        <table id="dices">
+            <tr>
+                <th></th>
+                <th>Section Supérieur</th>
+            </tr>
+            <tr>
+                <td><img class="1"></td>
+                <td class="points s_inf lockable" id="nb_dice_1"></td>
+            </tr>
+            <tr>
+                <td><img class="2"></td>
+                <td class="points s_inf lockable" id="nb_dice_2"></td>
+            </tr>
+            <tr>
+                <td><img class="3"></td>
+                <td class="points s_inf lockable" id="nb_dice_3"></td>
+            </tr>
+            <tr>
+                <td><img class="4"></td>
+                <td class="points s_inf lockable" id="nb_dice_4"></td>
+            </tr>
+            <tr>
+                <td><img class="5"></td>
+                <td class="points s_inf lockable" id="nb_dice_5"></td>
+            </tr>
+            <tr>
+                <td><img class="6"></td>
+                <td class="points s_inf lockable" id="nb_dice_6"></td>
+            </tr>
+            <tr>
+                <td>Total</td>
+                <td class="points" id="total_dice"></td>
+            </tr>
+            <tr>
+                <td>Prime 35pts</td>
+                <td class="points" id="prime"></td>
+            </tr>
+            <tr>
+                <td>Total Section Supérieur</td>
+                <td id="total_s_sup"></td>
+            </tr>
+        </table>
+
+        <table id="combo">
+            <tr>
+                <th>Combinaisons</th>
+                <th>Points</th>
+                <th>Points</th>
+            </tr>
+            <tr>
+                <td>Brelan</td>
+                <td>Somme</td>
+                <td class="lockable points s_sup" id="brelan"></td>
+            </tr>
+            <tr>
+                <td>Petite Suite</td>
+                <td>30</td>
+                <td class="lockable points s_sup" id="psuite"></td>
+            </tr>
+            <tr>
+                <td>Grande Suite</td>
+                <td>40</td>
+                <td class="lockable points s_sup" id="gsuite"></td>
+            </tr>
+            <tr>
+                <td>Full</td>
+                <td>25</td>
+                <td class="lockable points s_sup" id="full"></td>
+            </tr>
+            <tr>
+                <td>Carré</td>
+                <td>Somme</td>
+                <td class="lockable points s_sup" id="carre"></td>
+            </tr>
+            <tr>
+                <td>Yahzee</td>
+                <td>50</td>
+                <td class="lockable points s_sup" id="yahzee"></td>
+            </tr>
+            <tr>
+                <td>Chance</td>
+                <td>Somme</td>
+                <td class="lockable points s_sup" id="chance"></td>
+            </tr>
+            <tr>
+                <td>Prime Yahzee</td>
+                <td>100</td>
+                <td class="points" id="prime_yahzee">0</td>
+            </tr>
+            <tr>
+                <td>Section Inférieur</td>
+                <td>Somme</td>
+                <td class="points" id="section_inf">0</td>
+            </tr>
+            <tr>
+                <td>Section Supérieur</td>
+                <td>Somme</td>
+                <td class="points" id="section_sup">0</td>
+            </tr>
+            <tr>
+                <td>Total</td>
+                <td></td>
+                <td id="total_general"></td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
