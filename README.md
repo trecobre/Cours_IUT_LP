@@ -153,3 +153,51 @@ Ce dépôt regroupe la presque totalité des travaux produits lors de mes étude
 > **Condition de lancement** : Avoir Java et Eclipse installé.
 
 ## Licence Professionnelle [DAGPI](https://github.com/trecobre/Cours_IUT_LP/tree/main/LP_DAGPI "LP_DAGPI")
+### [JEE](https://github.com/trecobre/Cours_IUT_LP/tree/main/LP_DAGPI/JEE "jee_lp")
+> **Description** : Mes cours de JEE en LP
+
+> **Language** : Java 11 EE + Payara + MD2
+
+> **Condition de lancement** : Avoir Java, NetBeans et payara installé. Configurer le serveur et la base de donnée. 
+
+### [PHP](https://github.com/trecobre/Cours_IUT_LP/tree/main/LP_DAGPI/PHP "php_lp")
+> **Description** : Mes cours de PHP en LP
+
+> **Language** : PHP 8 + MySQL
+
+> **Condition de lancement** : Avoir WampServer ou Lamp installé.
+
+### [Prog Web](https://github.com/trecobre/Cours_IUT_LP/tree/main/LP_DAGPI/prog_web "prog_web_lp")
+> **Description** : Mes cours de prog web coté client en LP
+
+> **Language** : JavaScript, JQuery, React
+
+> **Condition de lancement** : Avoir node installé.
+
+### [Qualité Logiciel](https://github.com/trecobre/Cours_IUT_LP/tree/main/LP_DAGPI/qualite_logiciel "qualite_logiciel")
+> **Description** : Mes cours de qualité logiciel
+
+> **Language** : C, Python, Bash, Git CI/CD, Docker
+
+> **Condition de lancement** : Avoir Python installé avec le module flask.
+
+### [JamboBlue](https://github.com/trecobre/Cours_IUT_LP/blob/main/LP_DAGPI/jambo-blue-main%20(1).zip "jambo")
+> **Description** : Projet d'intégration à la LP. L'objectif était de coder intégralement le jeu [Jambo](https://www.trictrac.net/jeu-de-societe/jambo "jambo").
+
+> **Language** : Python
+
+> **Condition de lancement** : Avoir Python installé avec les modules QT.
+
+### [C++](https://github.com/trecobre/Cours_IUT_LP/blob/main/LP_DAGPI/stage-prog-dagpi-2022-main.zip "c++")
+> **Description** : Mes cours de programmations orientés objets en C++. C'est une base sur laquel nous avons fait le projet d'échecs.
+
+> **Language** : C++
+
+> **Condition de lancement** : Sous linux.
+
+### [Echec (en cours)](https://github.com/trecobre/Cours_IUT_LP/ "echec")
+> **Description** : Projet d'echec. L'objectif était de coder un jeu d'échec à partir de la base fournie dans les cours de C++.
+
+> **Language** : C++
+
+> **Condition de lancement** : Sous linux.
