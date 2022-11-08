@@ -5,9 +5,7 @@ Ce dépôt regroupe la presque totalité des travaux produits lors de mes étude
 ## 1er Année de DUT Informatique [S1 & S2](https://github.com/trecobre/Cours_IUT_LP/tree/main/IUT_S1-S2 "IUT_S1-S2")
 ### [Gomoku](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S1-S2/gomoku-master.zip "gomoku") : 
 > **Description** : Jeu de plateau japonais qui consiste à aligner 5 pions de la même couleur, à la manière du TicTacToe, mais sur un plateau plus grand. 
-
 > **Language** : Java 11 SE
-
 > **Condition de lancement** : Avoir Java installé
 
 ### [IA Towa](https://github.com/trecobre/Cours_IUT_LP/blob/main/IUT_S1-S2/ia-towa-master.zip "ia-towa") : 
