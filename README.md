@@ -177,7 +177,7 @@ Ce dépôt regroupe la presque totalité des travaux produits lors de mes étude
 ### [Qualité Logiciel](https://github.com/trecobre/Cours_IUT_LP/blob/main/LP_DAGPI/qualite_logiciel.zip "qualite_logiciel")
 > **Description** : Mes cours de qualité logiciel
 
-> **Language** : C, Python, Bash, Git CI/CD, Docker
+> **Language** : C, Python, Bash, GitLab CI/CD, Docker
 
 > **Condition de lancement** : Avoir Python installé avec le module flask.
 
