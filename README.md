@@ -160,7 +160,7 @@ Ce dépôt regroupe la presque totalité des travaux produits lors de mes étude
 
 > **Condition de lancement** : Avoir Java, NetBeans et payara installé. Configurer le serveur et la base de donnée. 
 
-### [PHP](https://github.com/trecobre/Cours_IUT_LP/tree/main/LP_DAGPI/PHP "php_lp")
+### [PHP](https://github.com/trecobre/Cours_IUT_LP/blob/main/LP_DAGPI/PHP.zip "php_lp")
 > **Description** : Mes cours de PHP en LP
 
 > **Language** : PHP 8 + MySQL
@@ -174,14 +174,14 @@ Ce dépôt regroupe la presque totalité des travaux produits lors de mes étude
 
 > **Condition de lancement** : Avoir node installé.
 
-### [Qualité Logiciel](https://github.com/trecobre/Cours_IUT_LP/tree/main/LP_DAGPI/qualite_logiciel "qualite_logiciel")
+### [Qualité Logiciel](https://github.com/trecobre/Cours_IUT_LP/blob/main/LP_DAGPI/qualite_logiciel.zip "qualite_logiciel")
 > **Description** : Mes cours de qualité logiciel
 
 > **Language** : C, Python, Bash, Git CI/CD, Docker
 
 > **Condition de lancement** : Avoir Python installé avec le module flask.
 
-### [JamboBlue](https://github.com/trecobre/Cours_IUT_LP/blob/main/LP_DAGPI/jambo-blue-main%20(1).zip "jambo")
+### [JamboBlue](https://github.com/trecobre/Cours_IUT_LP/blob/main/LP_DAGPI/jambo-blue-main.zip "jambo")
 > **Description** : Projet d'intégration à la LP. L'objectif était de coder intégralement le jeu [Jambo](https://www.trictrac.net/jeu-de-societe/jambo "jambo").
 
 > **Language** : Python
